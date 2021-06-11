@@ -7,7 +7,11 @@ A Flask application that captures the contents of your screen, and sends it to a
 
 ## Requires:
 flask
+
 cv2
+
 pyautogui
+
 numpy
+
 pillow
