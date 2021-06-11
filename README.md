@@ -4,3 +4,10 @@ A Flask application that captures the contents of your screen, and sends it to a
 
 ## Example of the website:
 <img src="/media(not_used)/example.gif" width="300">
+
+## Requires:
+flask
+cv2
+pyautogui
+numpy
+pillow
